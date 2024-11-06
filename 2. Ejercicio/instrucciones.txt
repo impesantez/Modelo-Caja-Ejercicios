@@ -1,0 +1,10 @@
+1. Diseñar una tarjeta de perfil con una imagen, nombre, descripción y un botón. 
+Deben usar padding, border, y margin para crear espacio alrededor de los elementos 
+y entre ellos, con una estética visual equilibrada.
+
+2. Especificaciones del Reto:
+
+- La tarjeta debe tener un ancho fijo de 300px y un padding de 20px.
+- Deben incluir una imagen de perfil con border-radius para hacerla circular.
+- Coloca un botón de “Seguir” debajo de la descripción con padding y margin adecuados para espaciar los elementos correctamente.
+- Opcional: Experimenten con el box-sizing: border-box; para controlar el tamaño total de la tarjeta.
