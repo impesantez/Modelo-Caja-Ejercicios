@@ -1,0 +1,19 @@
+.caja {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(214, 108, 108);
+    margin: 40px;
+    border: 1px solid rgb(172, 31, 31);
+    box-sizing: border-box;
+}
+
+.caja img {
+    width: 100px;
+    height: auto;
+    border-radius: 50%; 
+    align-items: center;
+}
